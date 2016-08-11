@@ -1,6 +1,6 @@
 # 程序说明
 
-本程序是基于MATLAB的GUI界面的类扫描全能王程序
+本程序是基于MATLAB的GUI界面的类Office Lens应用，还有很多待提高
 
 ![](Image/1.png)
 
